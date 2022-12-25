@@ -1,0 +1,69 @@
+Список машин на складах
+Infinity цена:6836
+Ford цена:10615
+Volvo цена:131944
+Toyota цена:1876
+Alfa Romeo цена:9419
+Hyundai цена:8455
+Alfa Romeo цена:198201
+Alfa Romeo цена:1260
+Alfa Romeo цена:120224
+Toyota цена:384409
+Alfa Romeo цена:94201
+Volvo цена:368669
+Ford цена:9728
+Infinity цена:8254
+Volvo цена:129478
+Infinity цена:80747
+Reno цена:54937
+Hyundai цена:73668
+Infinity цена:51183
+Toyota цена:118158
+Nissan цена:3721
+Lada цена:360511
+BMW цена:81131
+Ford цена:92168
+Porsche цена:4117
+Lada цена:363567
+Suzuki цена:6173
+Hyundai цена:38101
+Volvo цена:7885
+Hyundai цена:9459
+BMW цена:9479
+BMW цена:137593
+Toyota цена:78149
+Porsche цена:266061
+Reno цена:17781
+BMW цена:74266
+Nissan цена:416472
+Hyundai цена:330725
+BMW цена:116354
+Ford цена:7489
+Suzuki цена:3193
+Volvo цена:6987
+Lada цена:256763
+Alfa Romeo цена:162205
+Mercedes цена:99565
+Lada цена:9810
+Mercedes цена:318586
+Porsche цена:9400
+Reno цена:3398
+BMW цена:9592
+Alfa Romeo цена:41129
+BMW цена:8739
+Suzuki цена:7055
+Hyundai цена:97436
+Lada цена:71359
+BMW цена:17722
+Mercedes цена:156014
+Infinity цена:69187
+Hyundai цена:9041
+Suzuki цена:2297
+Volvo цена:3747
+Volvo цена:1591
+Nissan цена:293435
+Suzuki цена:467933
+BMW цена:647020
+Hyundai цена:9516
+Alfa Romeo цена:5240
+Toyota цена:19080

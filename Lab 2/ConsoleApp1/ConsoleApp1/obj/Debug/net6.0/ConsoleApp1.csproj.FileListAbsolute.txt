@@ -1,0 +1,306 @@
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Student2\Desktop\МДК\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Humanizer.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Humanizer.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Humanizer.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Humanizer.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Работа\Волков\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Humanizer.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Волков Д.Е МДК\МДК 02.01\1) Лабы МДК 2.1\Лаба 2\Lab 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
